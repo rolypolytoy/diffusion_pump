@@ -10,5 +10,14 @@ This design fits in a 250 mm height, 200 mm diameter cylinder, which is remarkab
 ## What can it do?
 After CNC manufacturing and assembly with the right components, this may be able to produce HV vacuum pressures in a vacuum chamber. There's only one way to find out.
 
+## Why does Diffusion_Pump_Internals.step look so weird?
+The nozzle assembly of a diffusion pump looks weird because it needs to guide the evaporated vapors upwards and sideways, because the precise thermo- and aero-dynamics of how it functions are necessary to the creation of the high vacuum. The specific CFD calculations weren't done by me but by the original author of https://grabcad.com/library/diffusion-pump-1, who made an upscaled, half-sector design of this file. 
+
+A rough summary is the long, column-like holes at the base are to let the oil stream in, the pinprick-like holes along the column, especially higher up, are to let the vapor out once sufficient pressure has built up, and the conic sections tapering outwards are to guide the direction of the vapors. This is a bird's eye view of how diffusion pumps work, and for a greater look at it I very much recommend you take a look at the open-access paper https://iopscience.iop.org/article/10.7567/JJAPS.2S1.25 or any other sources of information.
+
+## How do I check it out?
+
+Use a CAD program like Solidworks or Fusion360. If you don't know what a CAD program is, or don't know where to buy one, use FreeCAD (https://www.freecad.org/). Download and run it, download any .step files you want to see, import them to the program, and view and modify them.
+
 ## What license is this with?
 None. Use this as you will, modify it, share it, there are no limitations.

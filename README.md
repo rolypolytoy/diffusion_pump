@@ -16,6 +16,8 @@ Some stills from the CAD file, as viewed from FreeCAD:
 
 ![Jet Assembly](https://github.com/user-attachments/assets/a110a4ec-9e95-4811-9a1a-faa1761cd8fc)
 
+Note that the final image- the jet assembly- was predominantly made by https://grabcad.com/library/diffusion-pump-1, but it was in a proprietary file format, and so had to be converted to openly-accessible formats, resized, and reshaped to fit in this assembly. The rest is entirely original work.
+
 ## What can it do?
 After CNC manufacturing and assembly with the right components, this may be able to produce HV vacuum pressures in a vacuum chamber. There's only one way to find out.
 

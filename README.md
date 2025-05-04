@@ -10,13 +10,10 @@ A very good demonstration video is: https://www.youtube.com/watch?v=SrNVLCHrJtY&
 This design fits in a 250 mm height, 200 mm diameter cylinder, which is remarkably small for a vacuum pump, and can pump several dozen L/s if correctly manufactured. The jet assembly's design is taken from a cross-section of a diffusion model in https://grabcad.com/library/diffusion-pump-1. One of the .catpart files had a splice of it. A duplication of the splice, rotation, merging and rescaling was necessary, as well as the conversion of the file to a more accessible format in the form of .step. In addition- the flange is made entirely by me- the exterior of the diffusion pump provided is subpar for several reasons. A corrugated design is harder to manufacture, it didn't have standardized inlets and outlets. I added these, as well as a custom design for a flange, complete with O-ring grooves and holes to be able to tighten screws through, so a Viton O-ring of 130 mm outer diameter and 2 mm cross-sectional thickness can be used to provide a vacuum-tight seal.
 
 Some stills from the CAD file, as viewed from FreeCAD:
-Bird's Eye View:
 ![View](https://github.com/user-attachments/assets/2c7445c5-50e3-48b4-bc69-a5a0268d8c9f)
 
-Close-Up of O-Ring Grooves
 ![O-Ring Grooves](https://github.com/user-attachments/assets/5bf62865-b8f3-4680-93bd-d35e33ea14ba)
 
-Jet Assembly (modified from GrabCAD)
 ![Jet Assembly](https://github.com/user-attachments/assets/a110a4ec-9e95-4811-9a1a-faa1761cd8fc)
 
 ## What can it do?

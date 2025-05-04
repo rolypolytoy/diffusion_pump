@@ -22,10 +22,12 @@ A rough summary is the long, column-like holes at the base are to let the oil st
 Use a CAD program like Solidworks or Fusion360. If you don't know what a CAD program is, or don't know where to buy one, use FreeCAD (https://www.freecad.org/). Download and run it, download any .step files you want to see, import them to the program, and view and modify them.
 
 ## How Do I Make this Real?
-Use the CAD files and get them CNC machined in aluminium or stainless steel. Then, get a nichrome heating element and place it at the base (https://www.amazon.com/uxcell-0-2x6mm-Nichrome-Heating-Elements/dp/B01E5RBB3I). Don't use WD40 or some other off-brand silicone oil. Unlike every other vacuum pump- the mechanical portion is not the mechanism of action, the oil is. Use very, very low vapor pressure oil or you won't even get lower vacuum pressures than a rotary vane.
+Use the CAD files and get them CNC machined in aluminium or stainless steel. Then, get a nichrome heating element and place it at the base https://www.amazon.com/uxcell-0-2x6mm-Nichrome-Heating-Elements/dp/B01E5RBB3I. Don't use WD40 or some other off-brand silicone oil. Unlike every other vacuum pump- the mechanical portion is not the mechanism of action, the oil is. Use very, very low vapor pressure oil or you won't even get lower vacuum pressures than a rotary vane. Buy a nitrile or viton O-ring with 130 mm OD, like: https://www.amazon.com/uxcell-Rings-Nitrile-125-2mm-Diameter/dp/B07HGCYDBY
 
 My recommendation? Buy Ultragrade 19 at: https://www.fishersci.com/shop/products/ultra-grade-19-oil-1l/NC9844626. It should get you to HV pressures. According to Ted Pella (https://www.tedpella.com/vacuum_html/Vacuum_Pump_Oil_Properties.aspx) it has a vapor pressure of 1 x 10^-8 mbar at 20 Celsius, which is more than good enough of a vapor pressure for most applications, and it's usually between $30-50.
 
 Also, buy a very, very powerful fan to air-cool it. Aircooling's already used for small diffusion pumps (like in the https://www.agilent.com/en/product/vacuum-technologies/diffusion-pumps/small-diffusion-pumps/ax-65-diffusion-pump). Normal 12V fans won't cut it, probably. A heavy-duty fan like the https://www.amazon.com/-/es/wfb1212hh-Delta/dp/B00773K4UE might work.
 
-None of this is tested information, but hey, what's the point in trying to make an open-source diffusion pump if you don't open source the non-CAD materials as well? 
+## How Does this Look Like?
+
+Some stills from the CAD file, as viewed from FreeCAD:

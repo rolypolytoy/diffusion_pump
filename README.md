@@ -31,3 +31,11 @@ Also, buy a very, very powerful fan to air-cool it. Aircooling's already used fo
 ## How Does this Look Like?
 
 Some stills from the CAD file, as viewed from FreeCAD:
+Bird's Eye View:
+![View](https://github.com/user-attachments/assets/2c7445c5-50e3-48b4-bc69-a5a0268d8c9f)
+
+Close-Up of O-Ring Grooves
+![O-Ring Grooves](https://github.com/user-attachments/assets/5bf62865-b8f3-4680-93bd-d35e33ea14ba)
+
+Jet Assembly (modified from GrabCAD)
+![Jet Assembly](https://github.com/user-attachments/assets/a110a4ec-9e95-4811-9a1a-faa1761cd8fc)
